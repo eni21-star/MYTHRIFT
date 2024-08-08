@@ -39,8 +39,8 @@ This service uses the Google Generative AI API to generate descriptions based on
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/my-thrift-store-description-generator.git
-   cd my-thrift-store-description-generator
+  https://github.com/eni21-star/MYTHRIFT.git
+
    ```
 
 2. Install dependencies:
@@ -103,18 +103,13 @@ This service uses the Google Generative AI API to generate descriptions based on
 
 Contributions are welcome! If you have suggestions for improvements or encounter issues, please submit a pull request or open an issue on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please reach out to [eniolaolagbegi@gmail.com](mailto:your-email@example.com).
 
 ---
 
 Happy thrift shopping!
 
 ```
-
-Feel free to adjust the details and contact information as needed. This `README.md` provides a comprehensive guide to setting up and using your description generator service.
